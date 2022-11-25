@@ -17,7 +17,7 @@ public class SelectionSortParameters
            }
         }  
          
-       System.out.print("Ordenando Array utilizando Selection Sort..\n");  
+       System.out.print("Ordenando Array utilizando Selection Sort...\n");  
        for(i=0; i<size; i++)  
        {  
            for(j=i+1; j<size; j++)  
