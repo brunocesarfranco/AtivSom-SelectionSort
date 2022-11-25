@@ -11,6 +11,7 @@ Projeto desenvolvido em JAVA para a matéria de Métodos de Pesquisa e Ordenaç�
 ### Alunos Envolvidos
 - Bruno Cesar de Oliveira Franco
 - Bruno Teski Mendes
+- Gustavo Eduardo Adoryan Hennig
 
 ### Packages
 - Scanner  
